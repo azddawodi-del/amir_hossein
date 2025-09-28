@@ -255,9 +255,3 @@ game_intro()
 game_loop()
 pygame.quit()
 quit()
-
-
-# game_intro()
-# game_loop()
-# pygame.quit()
-# quit()
