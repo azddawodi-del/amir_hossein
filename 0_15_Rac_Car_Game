@@ -36,6 +36,7 @@
 
 # carImg = pygame.image.load("player.png")
 
+# creat buttle imag
 # bulletImg = pygame.image.load('bullet.png')
 # bulletX = 0
 # bulletY = 520
